@@ -56,6 +56,8 @@ export default class Main extends React.Component {
 			}
 
 			return (nameTest || descriptionTest) && priceTest
+		}).sort((a, b) => {
+			return b.fromPrice - a.fromPrice;
 		})
 	}
 
