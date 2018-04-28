@@ -1,0 +1,354 @@
+{
+    "codes": [
+        {
+            "name": "640 - POTATO - Картофельные дольки - От 15.00 рублей - Минск",
+            "code": "POTATO",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "718 - QULIX1 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "QULIX1",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "734 - МЕТРО - Пепперони 23ТРАД - От 23.00 рублей - Минск",
+            "code": "МЕТРО",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "794 - ПЛЭЙТИКА - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "ПЛЭЙТИКА",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "795 - ПЛЭЙТИКА1 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "ПЛЭЙТИКА1",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "840 - ХАЙНЕКЕН - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "ХАЙНЕКЕН",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "841 - ХАЙНЕКЕН1 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "ХАЙНЕКЕН1",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "901 - МТС - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "МТС",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "902 - МТС10 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "МТС10",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "903 - A1QA - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "A1QA",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "904 - A1QA10 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "A1QA10",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "905 - SKYWIND - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "SKYWIND",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "906 - SKYWIND10 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "SKYWIND10",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "996 - КАРПЕНКО - Скидка 7% - От 15.00 рублей - Минск",
+            "code": "КАРПЕНКО",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1111 - BARMASSE - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "BARMASSE",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1118 - NIGHT, NIGHT1, NIGHT2 - Сырные палочки - От 15.00 рублей - Минск",
+            "code": "NIGHT",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1154 - ITECHART10 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "ITECHART10",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1155 - ITECHART - Скидка 5% - От 15.00 рублей - Минск",
+            "code": "ITECHART",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1179 - ПОДСТАВА - На выбор из 7 пицц 30ТРАД, 30ТОНК - От 31.00 рублей - Минск",
+            "code": "ПОДСТАВА",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1181 - НАСТЯ - На выбор из 7 пицц 30ТРАД, 30ТОНК - От 31.00 рублей - Минск",
+            "code": "НАСТЯ",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1180 - BRB - На выбор из 7 пицц 30ТРАД, 30ТОНК - От 31.00 рублей - Минск",
+            "code": "BRB",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1218 - WARGAMING - Скидка 5% - От 15.99 рублей - Минск",
+            "code": "WARGAMING",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1219 - WARGAMING10 - Скидка 10% - От 70.00 рублей - Минск",
+            "code": "WARGAMING10",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1242 - DAROO - Скидка 10% - От 16.99 рублей - Минск",
+            "code": "DAROO",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1243 - ITALY - Маленькая Италия 30ТРАД, 30ТОНК - От 52.00 рублей - Минск",
+            "code": "ITALY",
+            "image": "/uploads/image/12e34a2149b5bba9a1fb22c55e3586c1.png",
+            "image_mobile_stock": "/uploads/image/390a46056fb598fff3f23cdc478a5430.png",
+            "image_mobile_shop": "/uploads/image/08d7c8b79851637a871b32197c4a19fd.png"
+        },
+        {
+            "name": "1254 - PJHM4 - Ветчина и грибы 23ТРАД - От 25.00 рублей - Минск",
+            "code": "PJHM4",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1255 - PJPEP4 - Пепперони 23ТРАД - От 30.00 рублей - Минск",
+            "code": "PJPEP4",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1244 - GAMES, CAKE, GNUMME, TANKS, CEH9, VERSUTA, NAGIB - На выбор из 8 пицц 30ТРАД, 30ТОНК - От 31.00 рублей - Минск",
+            "code": "GAMES",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1261 - АМЕРИКА, ИСТОРИЯ - Маргарита 23ТРАД - От 20.00 рублей - Минск",
+            "code": "АМЕРИКА",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1313 - КОКОПАПА - Домашняя, Овощи Терияки 23ТРАД - От 25.00 рублей - Минск",
+            "code": "КОКОПАПА",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1316 - HOME - Домашняя, Овощи Терияки 30ТРАД, 30ТОНК - От 33.00 рублей - Минск",
+            "code": "HOME",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1321 - СЧАСТЬЕ, СОЛНЦЕ - Пепперони 23ТРАД - От 15.00 рублей - Минск",
+            "code": "СЧАСТЬЕ",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1340 - LEVERX10 - Скидка 10% - От 16.99 рублей - Минск",
+            "code": "LEVERX10",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1346 - BEST2 - Пепперони роллы 12 шт - от 15.00 рублей - Минск",
+            "code": "BEST2",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1348 - BEST4 - Картофельные Дольки - От 15.00 рублей - Минск",
+            "code": "BEST4",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1355 - RUTVBY - Гавайская 30ТРАД - От 30.00 рублей - Минск",
+            "code": "RUTVBY",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1358 - МИР - На выбор из 5 пицц 23ТРАД - От 26.00 рублей - Минск",
+            "code": "МИР",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1359 - SMILE - Супер Папа, Большая Бонанза 30ТРАД, 30ТОНК - От 35.00 рублей - Минск",
+            "code": "SMILE",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1367 - TVWEEK3 - Пепперони роллы 12 шт - От 15.00 рублей - Минск",
+            "code": "TVWEEK3",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1368 - TVWEEKEND2 - Картофельные дольки - От 15.00 рублей - Минск",
+            "code": "TVWEEKEND2",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1369 - AWESOME - Супер Папа 23ТРАД - От 25.00 рублей - Минск",
+            "code": "AWESOME",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1372 - AWESOME5, AWESOME7 - На выбор из 5 пицц 30ТРАД, 30ТОНК - От 33.00 рублей - Минск",
+            "code": "AWESOME5",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1373 - AWESOME21, AWESOME28 - Ветчина и грибы 23ТРАД - От 20.00 рублей - Минск",
+            "code": "AWESOME21",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1374 - AWESOME60 - Пепперони роллы 12 шт - От 15.00 рублей - Минск",
+            "code": "AWESOME60",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1376 - WONDER1 - Сырные Палочки - От 15.00 рублей - Минск",
+            "code": "WONDER1",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1375 - AWESOME90 - Пайнэпл роллы 12 шт - От 15.00 рублей - Минск",
+            "code": "AWESOME90",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1377 - WONDER7 - Картофельные Дольки - От 15.00 рублей - Минск",
+            "code": "WONDER7",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1378 - WONDER35, WONDER28 - На выбор из 5 пицц 23ТРАД - От 33.00 рублей - Минск",
+            "code": "WONDER35",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1380 - WONDER60 - Пепперони роллы 12 шт - От 15.00 рублей - Минск",
+            "code": "WONDER60",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        },
+        {
+            "name": "1381 - WONDER90 - Пайнэпл роллы 12 шт - От 15.00 рублей - Минск",
+            "code": "WONDER90",
+            "image": false,
+            "image_mobile_stock": false,
+            "image_mobile_shop": false
+        }
+    ]
+}
