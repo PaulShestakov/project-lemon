@@ -2,8 +2,10 @@ import data from '../data/codes.json';
 
 class CodesService {
 
-	getAll() {
-		return data.codes
+	getCodes() {
+		return fetch('https://www.papajohns.by/api/stock/codes')
+			.then(response => response.json())
+			.then(data => data.codes)
 	}
 
 }

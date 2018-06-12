@@ -13,11 +13,10 @@ export default class Main extends React.Component {
 	constructor(props) {
 		super(props);
 
-		const codes = CodesTransform.transformCodes(CodesService.getAll());
-
 		this.state = {
-			initialCodes: codes,
-			filteredCodes: codes,
+			isLoading: true,
+			initialCodes: [],
+			filteredCodes: [],
 			nameQuery: '',
 			priceQuery: '',
 		};
@@ -25,6 +24,18 @@ export default class Main extends React.Component {
 		this.handleNameQueryChange = this.handleNameQueryChange.bind(this);
 		this.handlePriceQueryChange = this.handlePriceQueryChange.bind(this);
 		this.filterCodes = this.filterCodes.bind(this);
+	}
+
+	componentDidMount() {
+		CodesService.getCodes().then(codes => {
+			const initialCodes = CodesTransform.transformCodes(codes)
+
+			this.setState({
+				isLoading: false,
+				initialCodes,
+				filteredCodes: initialCodes,
+			})
+		})
 	}
 
 	handleNameQueryChange(nameQuery) {
@@ -62,7 +73,7 @@ export default class Main extends React.Component {
 	}
 
 	render() {
-		const { filteredCodes } = this.state;
+		const { filteredCodes, isLoading } = this.state;
 
 		return (
 			<React.Fragment>
@@ -83,19 +94,22 @@ export default class Main extends React.Component {
 								value={this.state.priceQuery}
 								onChange={this.handlePriceQueryChange} />
 						</div>
-
-						<div className="codeCardsList">
-							{
-								filteredCodes.map(code => {
-									return (
-										<Code
-											code={code.code}
-											description={code.description}
-											fromPrice={code.fromPrice} />
-									)
-								})
-							}
-						</div>
+						{
+							isLoading ? null : (
+								<div className="codeCardsList">
+									{
+										filteredCodes.map(code => {
+											return (
+												<Code
+													code={code.code}
+													description={code.description}
+													fromPrice={code.fromPrice} />
+											)
+										})
+									}
+								</div>
+							)
+						}
 					</div>
 				</main>
 				<footer>
