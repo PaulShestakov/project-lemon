@@ -1,4 +1,3 @@
-import data from '../data/codes.json';
 
 class CodesService {
 
