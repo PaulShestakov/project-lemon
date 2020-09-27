@@ -17,4 +17,23 @@ window.addEventListener("DOMContentLoaded", async (event) => {
   };
 
   const codes = mapCodes(data);
+
+  console.log(codes);
+
+  const root = document.getElementById("root");
+
+  const render = (root, codes) => {
+    root.innerHTML = `
+        ${codes.map((code) => {
+          return `
+                <div>
+                    <div>${code.fromPrice}</div>
+                    <div>${code.description}</div>
+                </div>
+            `;
+        })}
+    `;
+  };
+
+  render(root, codes);
 });
